@@ -1,0 +1,17 @@
+{
+    "name": "engenho-08/todo-list",
+    "autoload": {
+        "psr-4": {
+            "Engenho08\\TodoList\\": "src/"
+        },
+        "files": ["public/functions/config.php", "public/functions/functions.php", "public/functions/modal.php"]
+        
+    },
+    "authors": [
+        {
+            "name": "daviDsoareSS",
+            "email": "david.silva425@etec.sp.gov.br"
+        }
+    ],
+    "require": {}
+}
